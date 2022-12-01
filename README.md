@@ -36,4 +36,11 @@ npm start
 
 Application starts at [http://localhost:3000/](http://localhost:3000/)
 
+# Screenshots
+
+![image](https://user-images.githubusercontent.com/60149879/205069737-aa8759bd-ed0c-4161-9b11-7b56b89086d8.png)
+
+![image](https://user-images.githubusercontent.com/60149879/205070074-b6bb34df-ad0b-4719-b032-9af5b89c6b16.png)
+
+
 Read Explanation at [https://vercel.com/blog/building-an-interactive-webgl-experience-in-next-js](https://vercel.com/blog/building-an-interactive-webgl-experience-in-next-js)
